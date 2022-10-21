@@ -1,4 +1,4 @@
-# Odoo ERP, PostgreSQL and Nginx Compose 🔥 🇧🇷
+# Odoo ERP, PostgreSQL and Nginx Compose 🔥 
 
   + Odoo
   + PostgreSQL
@@ -38,8 +38,4 @@
   `docker-compose stop odoo && sudo docker-compose run --rm odoo odoo -c /etc/odoo/odoo.conf -u your_module 
   --stop-after-init && docker-compose start odoo` <br/>
   
-### Contact 📞
-  
-  + Linkedin: https://www.linkedin.com/in/danielpontesnery/
-  + Email: danielpontesnery@gmail.com
   
